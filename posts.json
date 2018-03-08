@@ -4,5 +4,11 @@
       "firstname": "Florian",
       "position": "Attaquant",
       "image": "https://medias.om.net/sites/default/files/thauvin-florian_180x240-min1.png"
+  },
+    {   "id": 2,
+      "lastname": "Ocampos",
+      "firstname": "Lucas",
+      "position": "Attaquant",
+      "image": "https://medias.om.net/sites/default/files/ocampos-lucas_180x240-min1-min.png"
   }
 ]
